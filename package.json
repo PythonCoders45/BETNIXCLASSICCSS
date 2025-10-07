@@ -1,0 +1,29 @@
+{
+  "name": "betnix-classic-css",
+  "version": "1.0.0",
+  "description": "A unified design system CSS",
+  "main": "giant.css",
+  "style": "giant.css",
+  "files": [
+    "giant.css",
+    "giant.min.css"
+  ],
+  "keywords": [
+    "css",
+    "framework",
+    "design-system",
+    "ui",
+    "responsive",
+    "betnix"
+  ],
+  "author": "Betnix",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PythonCoders45/BETNIXCLASSICCSS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PythonCoders45/BETNIXCLASSICCSS/issues"
+  },
+  "homepage": "https://github.com/PythonCoders45/BETNIXCLASSICCSS/tree/main"
+}
